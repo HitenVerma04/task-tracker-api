@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/HitenVerma04/task-tracker-api/actions/workflows/ci.yml/badge.svg)](https://github.com/HitenVerma04/task-tracker-api/actions/workflows/ci.yml)
 
-REST API for managing tasks — built with Spring Boot, JPA, and PostgreSQL. Includes CRUD operations, and will expand with Redis caching, JWT auth, and CI/CD.
+REST API for managing tasks — built with Spring Boot, JPA, and PostgreSQL. Includes full CRUD operations, validation, global exception handling, and CI/CD.
 
 ## v1 — CRUD API
 
